@@ -46,9 +46,26 @@ https://www.aliexpress.com/item/1pcs-V3-NodeMcu-Lua-WIFI-module-integration-of-E
 
 Donc, pour seulement 2$ on a un MCPU avec une connexion WIFI et pleins de mémoire pour le programme, et je ne parle pas de la consommation au repos. Cela vaut donc vraiment la peine de s'y pencher une fois dessus ;-)
 
+## Documentation
 Superbe documentation, à lire avant toute chose, qui résume bien la saga ESP8266
+
 https://projetsdiy.fr/esp8266-guide-de-choix-achat-projets-diy/
 
+## Data sheet
 Data sheet ESP8266EX
+
 https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+
+## Ma petite documentation perso
+Ma petite documentation pense bête où je mets pour l'instant pleins de choses que j'ai trouvées ce NodeMCU ESP8266 Lua
+
+https://docs.google.com/document/d/1q64uK3IMOgEDdKaIAttbYuFt4GuLQ06k3FLeyfCsWLg/edit?usp=sharing
+
+
+## Mon dépôt fourre tout
+Mon dépôt où je mets pour l'instant pleins de choses sru ce NodeMCU ESP8266 Lua
+
+https://github.com/zuzu59/NodeMCU_Lua
+
+zf180724.1459
 
