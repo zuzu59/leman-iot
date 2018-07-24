@@ -63,7 +63,7 @@ https://docs.google.com/document/d/1q64uK3IMOgEDdKaIAttbYuFt4GuLQ06k3FLeyfCsWLg/
 
 
 ## Mon dépôt fourre tout
-Mon dépôt où je mets pour l'instant pleins de choses sru ce NodeMCU ESP8266 Lua
+Mon dépôt où je mets pour l'instant pleins de choses sur ce NodeMCU ESP8266 Lua
 
 https://github.com/zuzu59/NodeMCU_Lua
 
