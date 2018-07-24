@@ -1,9 +1,9 @@
 # leman-iot
 Communauté Lémanique d'IoT basé sur le module NodeMCU ESP8266 Lua ;-)
 
-<center>
-![Module NodeMCU](https://github.com/zuzu59/leman-iot/blob/master/NodeMCU.png)
-</center>
+<p align="center">
+  <img src="https://github.com/zuzu59/leman-iot/blob/master/NodeMCU.png">
+</p>
 
 ## Buts
 Ce petit module à seulement 2$ est juste incroyable, il se programme hyper facilement en Lua et c'est vraiment trop dommage de ne pas le connaître.
