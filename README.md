@@ -10,7 +10,7 @@ C'est pourquoi j'ai créé cette communauté d'utilisateurs afin de pouvoir tous
 http:// comming soon
 
 ## ESP8266
-L’ESP8266 est un circuit intégré à microcontrôleur avec connexion WiFi développé par le fabricant chinois Espressif.
+L’ESP8266 est un circuit intégré à microcontrôleur avec stack TCPIP WiFi développé par le fabricant chinois Espressif.
 
 En août 2014, les passionnés d’électronique commencent à s’intéresser à la version ESP-01 de ce circuit intégré produite par une entreprise tierce, AI-Thinker. Celui-ci, de taille réduite, permet de connecter un microcontrôleur à un réseau WiFi et d’établir des connexions TCP/IP avec des commandes Hayes. La traduction progressive de la documentation (à l'origine uniquement en chinois) motivée par le bas prix du circuit a permis le développement d'une communauté de développeurs et de passionnés de l'ESP8266.
 
@@ -21,17 +21,17 @@ https://fr.wikipedia.org/wiki/ESP8266
 
 Une des dernières versions ESP8266 est juste merveilleuse:
 
-32-bit RISC CPU: Tensilica Xtensa LX106, 80 MHz
-64 KiB of instruction RAM, 96 KiB of data RAM
-External QSPI flash - 512 KiB to 32 Mib (attention c'est des bits !)
-IEEE 802.11 b/g/n Wi-Fi
-Integrated TR switch, balun, LNA, power amplifier and matching network
-WEP or WPA/WPA2 authentication, or open networks
-16 GPIO pins
-SPI, I²C,
-I²S interfaces with DMA (sharing pins with GPIO)
-UART on dedicated pins, plus a transmit-only UART can be enabled on GPIO2
-1 10-bit ADC
+* 32-bit RISC CPU: Tensilica Xtensa LX106, 80 MHz
+* 64 KiB of instruction RAM, 96 KiB of data RAM
+* External QSPI flash - 512 KiB to 32 Mib (attention c'est des bits !)
+* IEEE 802.11 b/g/n Wi-Fi
+* Integrated TR switch, balun, LNA, power amplifier and matching network
+* WEP or WPA/WPA2 authentication, or open networks
+* 16 GPIO pins
+* SPI, I²C,
+* I²S interfaces with DMA (sharing pins with GPIO)
+* UART on dedicated pins, plus a transmit-only UART can be enabled on GPIO2
+* 1 10-bit ADC
 
 ## NodeMCU ESP8266 Lua
 Les déclinaisons en module NodeMCU sont très utilisées dans la plate-forme open source IoT, en particulier avec le firmware Lua, qui permet de programmer en langage haut niveau.
