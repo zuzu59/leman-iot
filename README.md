@@ -17,7 +17,7 @@ En août 2014, les passionnés d’électronique commencent à s’intéresser �
 Fin octobre 2014, Espressif propose un kit de développement logiciel (SDK) permettant de programmer le circuit sans recourir à l’utilisation d’un microcontrôleur additionnel. Depuis, Espressif a sorti quantité de nouvelles versions du SDK et ce sous deux variantes : une basée sur RTOS et une autre basée sur les fonctions de rappel (callbacks).
 
 (Source Wikipedia)
-https://fr.wikipedia.org/wiki/ESP8266
+[https://fr.wikipedia.org/wiki/ESP8266](https://fr.wikipedia.org/wiki/ESP8266)
 
 Une des dernières versions ESP8266 est juste merveilleuse:
 
@@ -38,35 +38,34 @@ Les déclinaisons en module NodeMCU sont très utilisées dans la plate-forme op
 
 Mais si on veut pouvoir utiliser toute la puissance de la bête, on utilise l'environnement de développement IDE d'ARDUINO et on programme en C++
 
-https://fr.wikipedia.org/wiki/NodeMCU
+[https://fr.wikipedia.org/wiki/NodeMCU](https://fr.wikipedia.org/wiki/NodeMCU)
 
 Et ce module coûte juste 2$ en Chine:
 
-https://www.aliexpress.com/item/1pcs-V3-NodeMcu-Lua-WIFI-module-integration-of-ESP8266-extra-memory-32M-Flash-USB-serial-CH340G/32879758161.html
+[https://www.aliexpress.com/item/1pcs-V3-NodeMcu-Lua-WIFI-module-integration-of-ESP8266-extra-memory-32M-Flash-USB-serial-CH340G/32879758161.html](https://www.aliexpress.com/item/1pcs-V3-NodeMcu-Lua-WIFI-module-integration-of-ESP8266-extra-memory-32M-Flash-USB-serial-CH340G/32879758161.html)
 
 Donc, pour seulement 2$ on a un MCPU avec une connexion WIFI et pleins de mémoire pour le programme, et je ne parle pas de la consommation au repos. Cela vaut donc vraiment la peine de s'y pencher une fois dessus ;-)
 
 ## Documentation
 Superbe documentation, à lire avant toute chose, qui résume bien la saga ESP8266
 
-https://projetsdiy.fr/esp8266-guide-de-choix-achat-projets-diy/
+[https://projetsdiy.fr/esp8266-guide-de-choix-achat-projets-diy/](https://projetsdiy.fr/esp8266-guide-de-choix-achat-projets-diy/)
 
 ## Data sheet
 Data sheet ESP8266EX
 
-https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+[https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
 
 ## Ma petite documentation perso
 Ma petite documentation pense bête où je mets pour l'instant pleins de choses que j'ai trouvées ce NodeMCU ESP8266 Lua
 
-https://docs.google.com/document/d/1q64uK3IMOgEDdKaIAttbYuFt4GuLQ06k3FLeyfCsWLg/edit?usp=sharing
+[https://docs.google.com/document/d/1q64uK3IMOgEDdKaIAttbYuFt4GuLQ06k3FLeyfCsWLg/edit?usp=sharing](https://docs.google.com/document/d/1q64uK3IMOgEDdKaIAttbYuFt4GuLQ06k3FLeyfCsWLg/edit?usp=sharing)
 
 
-## Mon dépôt fourre tout
+## Mon dépôt fourre-tout
 Mon dépôt où je mets pour l'instant pleins de choses sur ce NodeMCU ESP8266 Lua
 
-https://github.com/zuzu59/NodeMCU_Lua
+[https://github.com/zuzu59/NodeMCU_Lua](https://github.com/zuzu59/NodeMCU_Lua)
 
-zf180724.1459
+zf180724.1606
 
-[I'm an inline-style link](https://www.google.com)
