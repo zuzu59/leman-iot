@@ -2,7 +2,7 @@
 Communauté Lémanique d'IoT basé sur le module NodeMCU ESP8266 Lua ;-)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zuzu59/leman-iot/blob/master/NodeMCU.png">
+  <img src="https://raw.githubusercontent.com/zuzu59/leman-iot/master/NodeMCU.png">
 </p>
 
 ## Buts
@@ -71,5 +71,5 @@ Mon dépôt où je mets pour l'instant pleins de choses sur ce NodeMCU ESP8266 L
 
 [https://github.com/zuzu59/NodeMCU_Lua](https://github.com/zuzu59/NodeMCU_Lua)
 
-zf180724.1620
+zf180724.1622
 
