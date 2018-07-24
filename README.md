@@ -10,8 +10,8 @@ Ce petit module à seulement 2$ est juste incroyable, il se programme hyper faci
 
 C'est pourquoi j'ai créé cette communauté d'utilisateurs afin de pouvoir tous nous réunir et partager nos expériences sur le sujet !
 
-## Slack pour cette communauté
-[https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTNmNGQ3YTA3NGMwNzgxMTY3NjJkNjNmMzYyNzU4YWNkOWQyNTA5MWM0ZjE5MWM2YWUxZWMzMjI2YThlN2UxZDY](https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTNmNGQ3YTA3NGMwNzgxMTY3NjJkNjNmMzYyNzU4YWNkOWQyNTA5MWM0ZjE5MWM2YWUxZWMzMjI2YThlN2UxZDY)
+## Groupe de discussion Slack pour cette communauté
+[https://leman-iot.slack.com/](https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTNmNGQ3YTA3NGMwNzgxMTY3NjJkNjNmMzYyNzU4YWNkOWQyNTA5MWM0ZjE5MWM2YWUxZWMzMjI2YThlN2UxZDY)
 
 ## ESP8266
 L’ESP8266 est un circuit intégré à microcontrôleur avec stack TCPIP WiFi développé par le fabricant chinois Espressif.
@@ -71,5 +71,5 @@ Mon dépôt où je mets pour l'instant pleins de choses sur ce NodeMCU ESP8266 L
 
 [https://github.com/zuzu59/NodeMCU_Lua](https://github.com/zuzu59/NodeMCU_Lua)
 
-zf180724.1624
+zf180724.1627
 
