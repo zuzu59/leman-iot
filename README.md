@@ -10,9 +10,9 @@ Ce petit module à seulement 2$ est juste incroyable, il se programme hyper faci
 
 C'est pourquoi j'ai créé cette communauté d'utilisateurs afin de pouvoir tous nous réunir et partager nos expériences sur le sujet !
 
-## Groupe de discussion Slack pour cette communauté: https://leman-iot.slack.com
+## Groupe de discussion Slack pour cette communauté: [https://leman-iot.slack.com](https://leman-iot.slack.com)
 Lien pour vous inscrire:<br>
-https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTVmOTNjMzMxNjA4YmRjYTQyMmE1ZTRmYTdlNjQ0MTYwNzk0NTVkMzE3NzY2NmQ1ZTkxNDlkNTc3ZGE2ZDJlZGM<br>
+[https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTVmOTNjMzMxNjA4YmRjYTQyMmE1ZTRmYTdlNjQ0MTYwNzk0NTVkMzE3NzY2NmQ1ZTkxNDlkNTc3ZGE2ZDJlZGM](https://join.slack.com/t/leman-iot/shared_invite/enQtNDA0MTY0NzI2MTMzLTVmOTNjMzMxNjA4YmRjYTQyMmE1ZTRmYTdlNjQ0MTYwNzk0NTVkMzE3NzY2NmQ1ZTkxNDlkNTc3ZGE2ZDJlZGM)<br>
 Si ce lien n'est plus valable, merci de me l'indiquer sur christian@zufferey.com !
 
 
